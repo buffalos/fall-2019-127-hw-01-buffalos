@@ -1,0 +1,47 @@
+* Fall 2019 - 127 - HAW
+
+* Name:
+
+* GitHub username:
+
+* Notes:
+
+* File structure:
+ - 
+
+* General instructions:
+- Fill in your name and GitHub username on top.
+- Use the Notes section to add any notes to the instructor.
+
+* Assignment
+
+1. Edit this file (Readme.org) to add your name and GitHub username. Also add anythin you want to share with me under notes.
+2. Save these changes by using: git commit REAMDE.org -m "updated readme"
+3. Push them using: git push
+4. For each of the 4 coding bat string-1 problems, either copy them
+   into this directory or write them in here.
+5. Each time you copy or write one of thes Python programs:
+   1. Add it to this repo using: git add filename.py
+      This will stage the program for adding to your local copy of the
+      repo
+   2. Commit the add using: git commit filename.py -m "a message
+      describing what you did"
+      If you don't use the -m "message" option you will be placed into
+      an editor - write the message save and exit.
+   3. Push the changes to GitHub using: git push
+
+6. If you further edit any of the files, each time, make sure to do a
+   git commit filename.py -m "message" followed by a git push. You
+   only add files once but you commit and push every time you change
+   something.
+
+* More notes:
+
+If you want to remove or delete a file from the repo use git rm
+filename.py then commit and push.
+
+If you want to rename (move) a file use git mv oldname.py newname.py
+then commit then push
+
+
+
